@@ -9,3 +9,5 @@ The project is modular, with separate components for log parsing, analysis, and 
 This project demonstrates key cybersecurity concepts including log analysis, pattern matching, and basic intrusion detection. It also reflects real-world practices used in Security Operations Centers (SOCs), where automated tools monitor logs for indicators of compromise.
 
 Overall, the log analyzer serves as a foundational example of how security monitoring systems work and provides a platform for further expansion into more advanced detection and alerting capabilities.
+
+To use. all you have to do is run "python main.py" without the quotes and you should recieve a report.txt
